@@ -1,0 +1,24 @@
+2025.04.07 16:09:22 INFO  Started: Metals version 1.5.2 in folders 'C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2' for client Visual Studio Code 1.93.0.
+2025.04.07 16:09:25 INFO  no build target found for C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\CalendarBis.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 16:09:28 INFO  no build target found for C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\CalendarBis.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.04.07 16:09:28 INFO  no build target found for C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\CalendarBis.scala. Using presentation compiler with project's scala-library version: 3.3.5
+avr. 07, 2025 4:09:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+avr. 07, 2025 4:09:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2025.04.07 16:09:28 INFO  Attempting to connect to the build server...
+2025.04.07 16:09:28 INFO  Running BSP server List(C:\Users\Jedha\AppData\Local\Coursier\cache\arc\https\github.com\scala\scala3\releases\download\3.6.4\scala3-3.6.4-x86_64-pc-win32.zip\scala3-3.6.4-x86_64-pc-win32\libexec\scala-cli.exe, --cli-default-scala-version, 3.6.4, --repository, file:///C:/Users/Jedha/AppData/Local/Coursier/cache/arc/https/github.com/scala/scala3/releases/download/3.6.4/scala3-3.6.4-x86_64-pc-win32.zip/scala3-3.6.4-x86_64-pc-win32/maven2, --prog-name, scala, --skip-cli-updates, bsp, --json-options, C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\.scala-build\ide-envs.json, C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\CalendarBis.scala)
+2025.04.07 16:09:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\.metals\bsp.trace.json or C:\Users\Jedha\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.04.07 16:09:30 INFO  time: Connected to build server in 2.27s
+2025.04.07 16:09:30 INFO  Connected to Build server: scala v1.5.4
+2025.04.07 16:09:31 INFO  time: Imported build in 0.14s
+2025.04.07 16:09:31 INFO  compiling calendar2_1b6fe7e4b7-af50edc22a (1 scala source)
+2025.04.07 16:09:38 INFO  time: compiled Calendar2_1b6fe7e4b7-af50edc22a in 6.67s
+2025.04.07 16:09:42 INFO  time: indexed workspace in 12s
+2025.04.07 16:09:43 WARN  no build target for: C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\Calendar.scala
+2025.04.07 16:09:44 INFO  no build target found for C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\Calendar.scala. Using presentation compiler with project's scala-library version: 3.6.4
+2025.04.07 16:09:48 WARN  no build target for: C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\Calendar.scala
+2025.04.07 16:13:10 WARN  no build target for: C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\Calendar.scala
+2025.04.07 16:13:10 INFO  no build target found for C:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\Calendar.scala. Using presentation compiler with project's scala-library version: 3.6.4
+2025.04.07 16:13:10 WARN  Could not find semantic tokens for: file:///C:/Users/Jedha/Desktop/__00__SUIVI_FORMATION/Scala/Calendar2/Calendar.scala
+2025.04.07 16:13:15 INFO  no build target found for c:\Users\Jedha\Desktop\__00__SUIVI_FORMATION\Scala\Calendar2\Calendar.scala. Using presentation compiler with project's scala-library version: 3.6.4
